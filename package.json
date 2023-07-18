@@ -1,0 +1,22 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is namaste react series by akshay saini",
+  "main": "index.html",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pravinshedbale/namaste-react.git"
+  },
+  "author": "Pravin Shedbale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pravinshedbale/namaste-react/issues"
+  },
+  "homepage": "https://github.com/pravinshedbale/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
